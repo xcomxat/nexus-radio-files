@@ -51,3 +51,9 @@ id=total_hits_en_espanol
 name=Total Hits En Español
 stream=https://strm112.1.fm/spanishtophits_mobile_mp3
 logo=https://xcomxat.narod.ru/_pu/0/55231839.jpg
+
+[station]
+id=maksimum
+name=Максимум
+stream=https://maximum.hostingradio.ru//maximum96.aacp
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/87.png
