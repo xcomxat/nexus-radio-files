@@ -1,36 +1,53 @@
 [station]
+id=nexus_radio_pop
 name=Nexus Radio Pop
 stream=https://stream1.thepuremix.net/nexuspop.mp3
 logo=https://xcomxat.narod.ru/logoradio/nexuspop.png
+
 [station]
+id=nexus_radio_dance
 name=Nexus Radio Dance
 stream=https://stream1.thepuremix.net/nexusdance.mp3
 logo=https://xcomxat.narod.ru/_pu/2/59017960.png
+
 [station]
+id=vesti_fm
 name=Вести FM
 stream=https://icecast-vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
 logo=https://xcomxat.narod.ru/_pu/0/73282696.jpg
+
 [station]
+id=absolute_chillout
 name=ABSOLUTE CHILLOUT
 stream=https://ais-sa5.cdnstream1.com/b05055_128mp3
 logo=https://xcomxat.narod.ru/_pu/0/67440790.jpg
+
 [station]
+id=calm_radio_reggae
 name=CALM RADIO - Reggae
 stream=https://streams.calmradio.com:18928/stream/1/
 logo=https://xcomxat.narod.ru/_pu/0/21144618.jpg
+
 [station]
+id=chilltrax
 name=ChillTrax
 stream=https://streamssl.chilltrax.com/index.html?sid=1
 logo=https://xcomxat.narod.ru/_pu/0/59646202.jpg
+
 [station]
+id=radio_record
 name=Radio Record
 stream=https://radio-srv1.11one.ru/record192k.mp3
 logo=https://xcomxat.narod.ru/_pu/0/35955330.jpg
+
 [station]
+id=reggaeton_heat
 name=Reggaeton Heat
 stream=https://strm112.1.fm/reggaeton_mobile_mp3
 logo=https://xcomxat.narod.ru/_pu/0/56806811.jpg
+
 [station]
+id=total_hits_en_espanol
 name=Total Hits En Español
 stream=https://strm112.1.fm/spanishtophits_mobile_mp3
 logo=https://xcomxat.narod.ru/_pu/0/55231839.jpg
