@@ -63,5 +63,3 @@ id=DFM_Deep
 name=DFM Deep
 stream=https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/deep-dfm.jpg
-
-2
