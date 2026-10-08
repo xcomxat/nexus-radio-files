@@ -93,3 +93,34 @@ id=ClassicRock
 name=Classic Rock
 stream=https://classicrock.stream.laut.fm/classicrock
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/ClassicRock.png
+
+[station]
+id=Eurodance90
+name=Eurodance 90
+stream=https://stream-eurodance90.fr/radio/8000/128.mp3
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/Eurodance90.png
+
+
+[station]
+id=ClassicRockFlorida
+name=Classic Rock Florida
+stream=https://das-edge11-live365-dal03.cdnstream.com/a06375
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/Eurodance90.png
+
+[station]
+id=DHRFMDeepHouseRadio
+name=DHR FM - Deep House Radio
+stream=https://live.dancemusic.ro:7000/;
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/DHRFMDeepHouseRadio.png
+
+[station]
+id=SideStreetRadio
+name=Side Street Radio
+stream=https://www.ophanim.net:8444/s/9780
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SideStreetRadio.png
+
+[station]
+id=AmsterdamTranceRadio
+name=1.FM - Amsterdam Trance Radio
+stream=https://strmreg.1.fm/atr_mobile_mp3
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SideStreetRadio.png
