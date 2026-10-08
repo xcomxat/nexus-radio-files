@@ -69,3 +69,27 @@ id=80s80s
 name=80s80s
 stream=https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/80s80s.png
+
+[station]
+id=AntenneBayern
+name=Antenne Bayern
+stream=https://s2-webradio.antenne.de/antenne
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/AntenneBayern.png
+
+[station]
+id=RockAntenne
+name=Rock Antenne
+stream=https://s1-webradio.antenne.de/rockantenne
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/RockAntenne.png
+
+[station]
+id=MetalHammer
+name=Metal Hammer
+stream=https://metal-hammer.stream.laut.fm/metal-hammer
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/RockAntenne.png
+
+[station]
+id=ClassicRock
+name=Classic Rock
+stream=https://classicrock.stream.laut.fm/classicrock
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/ClassicRock.png
