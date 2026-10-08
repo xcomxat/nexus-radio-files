@@ -2,7 +2,7 @@
 id=nexus_radio_pop
 name=Nexus Radio Pop
 stream=https://stream1.thepuremix.net/nexuspop.mp3
-logo=https://xcomxat.narod.ru/logoradio/nexuspop.png
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/nexuspop.png 
 
 [station]
 id=nexus_radio_dance
