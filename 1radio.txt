@@ -64,3 +64,8 @@ name=DFM Deep
 stream=https://dfm-dfmdeep.hostingradio.ru/dfmdeep96.aacp
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/deep-dfm.jpg
 
+[station]
+id=80s80s
+name=80s80s
+stream=https://regiocast.streamabc.net/regc-80s80smweb2517500-mp3-192-1672667
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/80s80s.png
