@@ -135,5 +135,5 @@ logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/eur
 [station]
 id=dorojradio
 name=Дорожное радио
-stream=https://hls-01-regions.emgsound.ru/15_msk/32/playlist.m3u8
+stream=https://hls-01-regions.emgsound.ru/15_msk/112/playlist.m3u8?hlssid=e1860b6eedf9423bb7dc9605ca16d063
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/dorojradio.png
