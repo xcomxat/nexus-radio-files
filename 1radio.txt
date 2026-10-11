@@ -138,13 +138,13 @@ stream=https://media-ssl.musicradio.com/SmoothLondonMP3
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SmoothRadio.png
 
 [station]
-id=RadioCaroline
-name=Radio Caroline
-stream=https://stream.radiocaroline.net/rc128/;
-logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/RadioCaroline.png
+id=MusicFactoryRadio
+name=Music Factory Radio
+stream=https://i4.streams.ovh:9000/stream
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/MusicFactoryRadio.png
 
 [station]
-id=HouseNationUK
-name=House Nation UK
-stream=https://streaming.radio.co/s06bd9d805/listen
-logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/HouseNationUK.png
+id=90s90sHITS
+name=90s90s HITS
+stream=https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/90s90sHITS.png
