@@ -136,15 +136,3 @@ id=SmoothRadio
 name=Smooth Radio
 stream=https://media-ssl.musicradio.com/SmoothLondonMP3
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SmoothRadio.png
-
-[station]
-id=MusicFactoryRadio
-name=Music Factory Radio
-stream=https://stream1.thepuremix.net/nexuspop.mp3
-logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/MusicFactoryRadio.png
-
-[station]
-id=90s90sHITS
-name=90s90s HITS
-stream=https://regiocast.streamabc.net/regc-90s90spop4760822-mp3-192-9403761
-logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/90s90sHITS.png
