@@ -140,7 +140,7 @@ logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/Smo
 [station]
 id=MusicFactoryRadio
 name=Music Factory Radio
-stream=https://i4.streams.ovh:9000/stream
+stream=https://radio.trance-energy.org:8443/trance
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/MusicFactoryRadio.png
 
 [station]
