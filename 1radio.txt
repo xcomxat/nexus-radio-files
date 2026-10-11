@@ -124,3 +124,16 @@ id=AmsterdamTranceRadio
 name=1.FM - Amsterdam Trance Radio
 stream=https://strmreg.1.fm/atr_mobile_mp3
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SideStreetRadio.png
+
+[station]
+id=europaplus
+name=Европа Плюс
+stream=https://ep256.hostingradio.ru:8052/europaplus256.mp3
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/europa-plus.png
+
+
+[station]
+id=dorojradio
+name=Дорожное радио
+stream=https://hls-01-regions.emgsound.ru/15_msk/32/playlist.m3u8
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/dorojradio.png
