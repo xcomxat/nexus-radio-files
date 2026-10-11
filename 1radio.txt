@@ -131,3 +131,20 @@ name=Европа Плюс
 stream=https://ep256.hostingradio.ru:8052/europaplus256.mp3
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/europa-plus.png
 
+[station]
+id=SmoothRadio
+name=Smooth Radio
+stream=https://media-ssl.musicradio.com/SmoothLondonMP3
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/SmoothRadio.png
+
+[station]
+id=RadioCaroline
+name=Radio Caroline
+stream=https://stream.radiocaroline.net/rc128/;
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/RadioCaroline.png
+
+[station]
+id=HouseNationUK
+name=House Nation UK
+stream=https://streaming.radio.co/s06bd9d805/listen
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/HouseNationUK.png
