@@ -142,3 +142,9 @@ id=DEEPRADIO
 name=СВОЕFM | DEEP RADIO
 stream=https://h.getradio.me/svoefm/hls_he48.m3u8
 logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/DEEPRADIO.jpg
+
+[station]
+id=MusicFactoryRadio
+name=Music Factory Radio
+stream=https://i4.streams.ovh:9000/stream
+logo=https://raw.githubusercontent.com/xcomxat/nexus-radio-files/main/images/MusicFactoryRadio.png
